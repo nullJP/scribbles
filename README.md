@@ -4,5 +4,5 @@
 
 - It runs line by line. No editing. Just raw thoughts. 
 - It only stops when you hit ctrl+c to abort the process.
-- After aborting it will save your thoughts to a file called "scribbles.txt". It will save in your home directory by default.
+- After quitting out, it will save your thoughts to a file called "scribbles.txt". It will save in your home directory by default.
 
