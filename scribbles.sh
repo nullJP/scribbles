@@ -1,8 +1,4 @@
 #!/bin/bash
-
-DIR_PATH="$HOME/scribble"
-FILE_PATH="$DIR_PATH/scribble.txt"
-
 touch $HOME/scribbles.txt
 echo "****TODAY IS: $(date)****" >> "$HOME/scribbles.txt"
 
