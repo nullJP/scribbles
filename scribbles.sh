@@ -2,6 +2,8 @@
 touch $HOME/scribbles.txt
 echo "****TODAY IS: $(date)****" >> "$HOME/scribbles.txt"
 
+trap 'echo "THE END" | xxd; exit' SIGINT
+
 while true; do
 	#Get user input
 	read input
