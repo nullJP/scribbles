@@ -1,4 +1,4 @@
-# scribbles
+# scribbles ver.2000
 - This is basically a small notepad you can use in the terminal.
 - Create an alias for calling the scribbles.sh file and run it from anywhere.
 
